@@ -9,7 +9,7 @@ This project is about visualizing personal GPS data with Python. The goal was to
 - [gdal](https://pypi.python.org/pypi/GDAL) python bindings for Geospatial Data Abstraction Library (and OGR)
 - [Basemap](https://github.com/matplotlib/basemap) plot on map projections using matplotlib
 
-This project was implemented on Windows and the GDAL binaries are installed through the help of the following link: [Installing GDAL for Windows](http://sandbox.idre.ucla.edu/sandbox/tutorials/installing-gdal-for-windows).
+This project was implemented on Windows x64 and with Python 2.7 and the GDAL binaries are installed through the help of the following link: [Installing GDAL for Windows](http://sandbox.idre.ucla.edu/sandbox/tutorials/installing-gdal-for-windows).
 
 ## Source files
 
@@ -26,8 +26,8 @@ All the source files in the [src](src) folder produce images which are saved in 
 
 ## Data sets
 
-The example data set used for the visualizations is from the [Citibike System Data](https://www.citibikenyc.com/system-data), which can be found on the real-time [Citibike station feed](https://feeds.citibikenyc.com/stations/stations.json).
+- The example data set used for the visualizations is from the [Citibike System Data](https://www.citibikenyc.com/system-data), which can be found on the real-time [Citibike station feed](https://feeds.citibikenyc.com/stations/stations.json).
 
-The NYC Neighborhood boundaries with the respective are used from the GeoJSON file of the [Pediacities NYC Neighborhoods](http://catalog.opendata.city/dataset/pediacities-nyc-neighborhoods).
+- The NYC Neighborhood boundaries with the respective are used from the GeoJSON file of the [Pediacities NYC Neighborhoods](http://catalog.opendata.city/dataset/pediacities-nyc-neighborhoods).
 
 ![Preview](preview.png)
