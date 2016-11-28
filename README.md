@@ -28,6 +28,6 @@ All the source files in the [src](src) folder produce images which are saved in 
 
 - The example data set used for the visualizations is from the [Citibike System Data](https://www.citibikenyc.com/system-data), which can be found on the real-time [Citibike station feed](https://feeds.citibikenyc.com/stations/stations.json).
 
-- The NYC Neighborhood boundaries with the respective are used from the GeoJSON file of the [Pediacities NYC Neighborhoods](http://catalog.opendata.city/dataset/pediacities-nyc-neighborhoods).
+- The NYC Neighborhood boundaries are used from the GeoJSON at the [Pediacities NYC Neighborhoods](http://catalog.opendata.city/dataset/pediacities-nyc-neighborhoods).
 
 ![Preview](preview.png)
